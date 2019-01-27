@@ -1,0 +1,22 @@
+{
+  "name": "face-sto",
+  "version": "1.0.0",
+  "description": "McMaster 2019 Hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kareem-Moh/Face-sto.git"
+  },
+  "author": "Kareem Mohamed, Eric Papagiannis, John Lee, Kevin Leich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kareem-Moh/Face-sto/issues"
+  },
+  "homepage": "https://github.com/Kareem-Moh/Face-sto#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
